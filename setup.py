@@ -16,7 +16,7 @@ setup(
     description="A Kubernetes MCP server for natural language interaction with Kubernetes clusters",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/k8s-mcp-server",
+    url="https://github.com/endo-sys/kubernecetes-mcp-server.git",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
